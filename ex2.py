@@ -2,4 +2,5 @@
 #in all capital letters.
 #Auther:xiepengcheng
 #DSTE:17/3/2025
-print("please enter your name")
+a=input("please enter your name")
+print(a.upper())
